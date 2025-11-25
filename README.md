@@ -4,8 +4,7 @@
 
 </p>
 <p align="center">
-  ㅤ綺麗な夜だから
-    哀しい夜だから
+  ㅤbaitㅤ&ㅤswitch
 </p>
 
 <div id="header" align="center">
